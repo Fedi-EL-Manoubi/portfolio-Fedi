@@ -37,7 +37,7 @@ body {
 }
 .appear.is-inview {
   transition-delay: 1s;
-  opacity: 1;
+  opacity: 1; 
   transform: none;
 }
 h2 {
